@@ -48,3 +48,6 @@
 # Easy copy-paste
 keybind = ctrl+c=copy_to_clipboard
 keybind = ctrl+v=paste_from_clipboard
+
+# Maximize on start
+maximize = true
